@@ -29,5 +29,7 @@ namespace ScanTech.Droid
 
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
         }
+
+
     }
 }
